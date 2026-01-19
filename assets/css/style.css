@@ -1,7 +1,11 @@
 body {
   text-align: center;
   font-family: 'Inter', sans-serif;
+<<<<<<< HEAD
   background-image: url("./src/bg-img.jpg");
+=======
+  background-image: url("src/bg-img.jpg");
+>>>>>>> d63c1fdaa02697c668aa0ce7623d9e0489f91ad7
   background-size: cover;
   background-color: rgba(0, 0, 0, 0.6);
   background-blend-mode: overlay;
