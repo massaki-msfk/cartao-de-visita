@@ -80,3 +80,8 @@ a:hover {
   height: 20px;
   padding-right: 10px;
 }
+
+.rodape {
+  margin: 30px auto 0px;
+  font-size: small;
+}
